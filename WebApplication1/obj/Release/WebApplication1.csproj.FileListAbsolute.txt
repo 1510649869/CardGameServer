@@ -1,0 +1,6 @@
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb

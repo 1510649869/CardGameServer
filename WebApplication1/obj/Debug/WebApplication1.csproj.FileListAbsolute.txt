@@ -1,0 +1,30 @@
+c:\users\cindy\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\cindy\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\cindy\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\cindy\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\cindy\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\bin\MySql.Data.dll
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\cindy\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\BaiduYunDownload\蛮牛卡牌\sh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Unity3D_Project\4.6\WebApplication1\WebApplication1\bin\LitJson.dll
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\UnityProject\kapai\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\UnityProject\kapai\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
